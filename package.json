@@ -1,0 +1,11 @@
+{
+  "name": "airtable-bourbon-gulp",
+  "version": "1.0.0",
+  "description": "Airtable build with Bourbon and Neat Semantic using Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robertcedwards",
+  "license": "ISC"
+}
